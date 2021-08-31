@@ -2,9 +2,11 @@
 
 Lite version of STY, Super Typecho
 
+因为**STY的正确策略**，对于主题部件的修改非常容易，这是在几个小时内诞生的Lite版本
+
 STY lite版本，这是体验版本，体验版本也有一个特殊的名字：`stylite -- 修行者`
 
-带着开源，修行吧！
+> 带着开源，修行吧！
 
 ## 关于主题
 
@@ -32,6 +34,8 @@ STY 是一款 Typecho 主题，原名叫做 Mix Pro，全名叫做 Super Typecho
 - **更多的好看风格部件！**
 
 > Lite仅自带weeWhite部件，灵感来自nicetheme
+> 
+> Lite版本也会维护，如果出现问题请提Issues！
 
 ## 主题特色
 
@@ -59,8 +63,8 @@ STY 是一款 Typecho 主题，原名叫做 Mix Pro，全名叫做 Super Typecho
 
 
 
-![STY DOMLoad](https://gitee.com/wibus/blog-assets-goo/raw/master/asset-pic/20210606213611.png)
+![DOMLoad](https://gitee.com/wibus/blog-assets-goo/raw/master/asset-pic/20210606213611.png)
 
-![Mix DOMLoad](https://gitee.com/wibus/blog-assets-goo/raw/master/asset-pic/20210606213654.png)
+![DOMLoad](https://gitee.com/wibus/blog-assets-goo/raw/master/asset-pic/20210606213654.png)
 
-![Joe DOMLoad](https://gitee.com/wibus/blog-assets-goo/raw/master/asset-pic/20210606213658.png)
+![DOMLoad](https://gitee.com/wibus/blog-assets-goo/raw/master/asset-pic/20210606213658.png)
